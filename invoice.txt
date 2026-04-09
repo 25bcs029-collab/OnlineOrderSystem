@@ -1,0 +1,10 @@
+===== INVOICE =====
+Invoice ID: 6825
+Date: 2026-04-09
+Customer: ben
+
+Product	Qty	Price	Total
+corn	2	$2.0	$4.0
+
+Grand Total: $4.0
+===================

@@ -1,0 +1,5 @@
+com\mycompany\onlineordersystem\Product.class
+com\mycompany\onlineordersystem\Customer.class
+com\mycompany\onlineordersystem\Invoice.class
+com\mycompany\onlineordersystem\OnlineOrderSystem.class
+com\mycompany\onlineordersystem\Order.class
